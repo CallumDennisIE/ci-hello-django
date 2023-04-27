@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['8000-callumdennisie-ci-hello-z9tm610kx8.us2.codeanyapp.com']
 
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
-# Application definition
+# Application definitiongit push heroku main
 
 INSTALLED_APPS = [
     'django.contrib.admin',
